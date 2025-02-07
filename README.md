@@ -2,7 +2,7 @@ Hi there, I'm Prathiba! 🌟
 
 I'm a recent graduate of the Bachelor of Computing degree from University of Guelph, with great interest in data science, machine learning and web development! 
 
-🔭 I’m currently working on Heart Disease Classification and Diabetic Retinopathy Classification problems
+🔭 I’m currently working on Heart Disease Classification problem
 
 🌱 Right now, I'm learning more about Machine Learning and Deep Learning, while also working on [The Odin Project](https://www.theodinproject.com/)!
 
