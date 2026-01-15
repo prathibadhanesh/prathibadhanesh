@@ -29,9 +29,6 @@ Computer Science graduate with a focus on **AI and Machine Learning**. I special
 #### [AutoScholar: Health Research Agent](https://github.com/prathibadhanesh/auto-scholar)
 > A multi-agent system built with **Python**, **Antigravity**, and **Ollama** to search, retrieve, and summarize medical literature.
 
-#### [Autonomous Browser Agent - Ongoing](https://github.com/prathibadhanesh/browser-agent)
-> A **Next.js** web interface that leverages local LLMs and **Playwright** to execute browser tasks via natural language.
-
 #### [NN-Encrypt](https://github.com/prathibadhanesh/nn-encrypt)
 > Neural cryptanalysis using GRUs to learn and reverse classical ciphers and analyze modern encryption resistance.
 
