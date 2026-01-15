@@ -1,16 +1,60 @@
-Hi there, I'm Prathiba! 🌟
+# Hi there, I'm Prathiba! 🌟
 
-I'm a recent graduate of the Bachelor of Computing degree from University of Guelph, with great interest in data science, machine learning and web development! 
+Computer Science graduate with a focus on **AI, Machine Learning, and Web Development**. I specialize in building data pipelines, research infrastructure, and agentic workflows.
 
-🔭 I’m currently working on Heart Disease Classification problem
+---
 
-🌱 Right now, I'm learning more about Machine Learning and Deep Learning, while also working on [The Odin Project](https://www.theodinproject.com/)!
+### 🚀 About Me
+- 🎓 **Recent Graduate** from the University of Guelph (B.Comp, Computer Science).
+- 🔬 **Research-Driven**: Experienced in preprocessing 20K+ conversations for LLM evaluation in mental health.
+- 🤖 **AI Enthusiast**: Currently building autonomous agents using Antigravity, Ollama, and LangChain.
+- 💻 **Full-Stack Emerging**: Transitioning into front-end development with TypeScript and Next.js.
+- ⚡ **Fun Fact**: I maintain the website and social media for a local jewelry business ([Ratnalaya](https://ratnalaya.ca/)), handling everything from photography to inventory!
 
-📢 How to reach me: [LinkedIn](https://www.linkedin.com/in/prathiba-dhanesh/) | [Email](mailto:prathiba.dhanesh@gmail.com)
+---
 
-😄 Pronouns: She/Her
+### 🛠️ Technical Skills
 
-⚡ Fun fact: I also maintain the website and social media for a local jewelry business! Everything from photography to inventory management is done by me :) Check out their [website](https://ratnalaya.ca/) and [instagram](https://www.instagram.com/ratnalaya_jewellery/) !
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Java, Python, C/C++, JavaScript, TypeScript, SQL (Postgres), Julia |
+| **Frameworks** | Next.js, React, Node.js, Tailwind CSS |
+| **AI & ML** | Antigravity, Ollama, LangChain, PyTorch, ChromaDB, HuggingFace |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, PowerBI, Tableau |
+| **Tools** | Git, Docker, Playwright, Azure DevOps, Railway |
 
-Thanks for stopping by! 🚀
+---
+
+### 📂 Featured Projects
+
+#### [AutoScholar: Health Research Agent](https://github.com/prathibadhanesh/AutoScholar)
+> A multi-agent system built with **Python**, **Antigravity**, and **Ollama** to search, retrieve, and summarize medical literature.
+
+#### [Autonomous Browser Agent](https://github.com/prathibadhanesh/browser-agent)
+> A **Next.js** web interface that leverages local LLMs and **Playwright** to execute browser tasks via natural language.
+
+#### [NN-Encrypt](https://github.com/prathibadhanesh/nn-encrypt)
+> Neural cryptanalysis using GRUs to learn and reverse classical ciphers and analyze modern encryption resistance.
+
+---
+
+### 📈 Experience Highlights
+
+- **i4Health Lab** | *Research Assistant* | Toronto, ON
+    - Standardized 20K conversations for LLM evaluation.
+    - Co-authored research accepted at **EACL 2026**.
+- **Swift Medical Inc.** | *Operations Intern* | Toronto, ON
+    - Automated reporting linking PowerBI with Prodsmart APIs, saving 40% of manual effort.
+    - Streamlined regulatory document workflows via Azure DevOps integration.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathiba-dhanesh) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathiba.dhanesh@gmail.com)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathibadhanesh&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
