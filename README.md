@@ -8,8 +8,8 @@ Computer Science graduate with a focus on **AI, Machine Learning, and Web Develo
 - 🎓 **Recent Graduate** from the University of Guelph (B.Comp, Computer Science).
 - 🔬 **Research-Driven**: Experienced in preprocessing 20K+ conversations for LLM evaluation in mental health.
 - 🤖 **AI Enthusiast**: Currently building autonomous agents using Antigravity, Ollama, and LangChain.
-- 💻 **Full-Stack Emerging**: Transitioning into front-end development with TypeScript and Next.js.
-- ⚡ **Fun Fact**: I maintain the website and social media for a local jewelry business ([Ratnalaya](https://ratnalaya.ca/)), handling everything from photography to inventory!
+- 💻 **Full-Stack Emerging**: I'm interested in learning front-end development
+- ⚡ **Fun Fact**: I maintain the social media for a local jewelry business ([Ratnalaya Fashion Jewellery]((https://www.instagram.com/ratnalaya_jewellery/))), handling everything from photography to inventory!
 
 ---
 
@@ -17,11 +17,10 @@ Computer Science graduate with a focus on **AI, Machine Learning, and Web Develo
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Java, Python, C/C++, JavaScript, TypeScript, SQL (Postgres), Julia |
-| **Frameworks** | Next.js, React, Node.js, Tailwind CSS |
+| **Languages** | Java, Python, C/C++, JavaScript, SQL (Postgres), Julia |
 | **AI & ML** | Antigravity, Ollama, LangChain, PyTorch, ChromaDB, HuggingFace |
 | **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, PowerBI, Tableau |
-| **Tools** | Git, Docker, Playwright, Azure DevOps, Railway |
+| **Tools** | Git, Docker|
 
 ---
 
@@ -30,7 +29,7 @@ Computer Science graduate with a focus on **AI, Machine Learning, and Web Develo
 #### [AutoScholar: Health Research Agent](https://github.com/prathibadhanesh/AutoScholar)
 > A multi-agent system built with **Python**, **Antigravity**, and **Ollama** to search, retrieve, and summarize medical literature.
 
-#### [Autonomous Browser Agent](https://github.com/prathibadhanesh/browser-agent)
+#### [Autonomous Browser Agent - Ongoing](https://github.com/prathibadhanesh/browser-agent)
 > A **Next.js** web interface that leverages local LLMs and **Playwright** to execute browser tasks via natural language.
 
 #### [NN-Encrypt](https://github.com/prathibadhanesh/nn-encrypt)
