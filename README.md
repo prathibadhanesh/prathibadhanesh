@@ -1,15 +1,15 @@
 # Hi there, I'm Prathiba! 
 
-CS graduate exploring AI and machine learning through practical projects. Currently experimenting with agent-based systems and working with data and research tools.
+CS grad interested in data science, AI/ML, currently building and experimenting with projects.
 
 ---
 ### Featured Projects
 
 #### [AutoScholar: Health Research Agent](https://github.com/prathibadhanesh/auto-scholar)
-> A multi-agent system built with **Python**, **Antigravity**, and **Ollama** to search, retrieve, and summarize medical literature.
+> A web-based tool that uses local SLM (Gemma3:1b) to rank and summarize Arxiv search results focsuing on healthcare AI research papers.
 
 #### [NN-Encrypt](https://github.com/prathibadhanesh/nn-encrypt)
-> Neural cryptanalysis using GRUs to learn and reverse classical ciphers and analyze modern encryption resistance.
+> Experimental project that I did to explore the strengths of different encryption methods using PyTorch.
 
 ---
 
