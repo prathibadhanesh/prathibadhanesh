@@ -1,6 +1,6 @@
 # Hi there, I'm Prathiba! 🌟
 
-Computer Science graduate with a focus on **AI, Machine Learning, and Web Development**. I specialize in building data pipelines, research infrastructure, and agentic workflows.
+Computer Science graduate with a focus on **AI and Machine Learning**. I specialize in building data pipelines, research infrastructure, and agentic workflows.
 
 ---
 
@@ -26,7 +26,7 @@ Computer Science graduate with a focus on **AI, Machine Learning, and Web Develo
 
 ### 📂 Featured Projects
 
-#### [AutoScholar: Health Research Agent](https://github.com/prathibadhanesh/AutoScholar)
+#### [AutoScholar: Health Research Agent](https://github.com/prathibadhanesh/auto-scholar)
 > A multi-agent system built with **Python**, **Antigravity**, and **Ollama** to search, retrieve, and summarize medical literature.
 
 #### [Autonomous Browser Agent - Ongoing](https://github.com/prathibadhanesh/browser-agent)
@@ -53,7 +53,3 @@ Computer Science graduate with a focus on **AI, Machine Learning, and Web Develo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathiba.dhanesh@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathibadhanesh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
