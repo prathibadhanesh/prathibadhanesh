@@ -11,9 +11,6 @@ CS grad interested in data science, AI/ML, currently building and experimenting 
 #### [NN-Encrypt](https://github.com/prathibadhanesh/nn-encrypt)
 > Experimental project that I did to explore the strengths of different encryption methods using PyTorch.
 
-#### [PDF Text Extraction & Visualization App](https://github.com/prathibadhanesh/pdf-extractor) *(IN-PROGRESS)*
-> A web-based application for extracting and visualizing text from medical-style PDFs.
-
 ---
 
 ### Connect with Me
